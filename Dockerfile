@@ -49,7 +49,7 @@ RUN \
         coreutils \
         nss \
         gtk+2.0 \
-        openjdk8-jre \
+        openjdk11-jre \
         java-jna \
         libmediainfo \
         && \
